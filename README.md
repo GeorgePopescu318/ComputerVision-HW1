@@ -1,5 +1,7 @@
 The libraries required to run the project including the full version of each library
 
+python == 3.12.6
+
 numpy==2.1.1
 
 opencv_python==4.10.0.48
